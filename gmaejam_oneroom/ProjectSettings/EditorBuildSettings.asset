@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/gameroom.unity
     guid: 202f50d9c9836c44ea1ddcbdff2ef922
+  - enabled: 1
+    path: Assets/Scenes/cellphone.unity
+    guid: 43e27c64cbd27e24783b9079e8fb97e3
+  - enabled: 1
+    path: Assets/Scenes/refrigerator.unity
+    guid: 075bf75c3d8b8124d93855c4d86be185
+  - enabled: 1
+    path: Assets/Scenes/door.unity
+    guid: 4de6e18dac7e3ce45abf2d390b91e905
   m_configObjects: {}
