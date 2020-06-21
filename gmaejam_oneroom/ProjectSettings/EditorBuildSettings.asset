@@ -12,12 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/gameroom.unity
     guid: 202f50d9c9836c44ea1ddcbdff2ef922
   - enabled: 1
-    path: Assets/Scenes/cellphone.unity
-    guid: 43e27c64cbd27e24783b9079e8fb97e3
+    path: Assets/Scenes/end_die.unity
+    guid: cc443cfcdba5b2c49a16f03cdc561ac0
   - enabled: 1
-    path: Assets/Scenes/refrigerator.unity
-    guid: 075bf75c3d8b8124d93855c4d86be185
+    path: Assets/Scenes/end_isolation.unity
+    guid: a89d45cc7b674584ca0de14887e22cb2
   - enabled: 1
-    path: Assets/Scenes/door.unity
-    guid: 4de6e18dac7e3ce45abf2d390b91e905
+    path: Assets/Scenes/end_safe.unity
+    guid: 6dfb4535cd3640940a56607b3f84a9cd
   m_configObjects: {}
